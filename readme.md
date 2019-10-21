@@ -7,14 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
-Clone the repository with git clone
-Copy .env.example file to .env and edit database credentials there
-Run composer install
-Run php artisan key:generate
-Run php artisan migrate
-php artisan migrate --seed
-php artisan serve
+## 
+ - Clone the repository with git clone
+ - Copy .env.example file to .env and edit database credentials there
+ - Run composer install
+ - Run php artisan key:generate
+ - Run php artisan migrate
+ - php artisan migrate --seed
+ - php artisan serve
 
 email : admin@gmail.com
 pass  : password
