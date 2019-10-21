@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## 
+## How to use 
  - Clone the repository with git clone
  - Copy .env.example file to .env and edit database credentials there
  - Run composer install
@@ -18,6 +18,11 @@
 
 email : admin@gmail.com
 pass  : password
+
+
+
+
+
 
 ## About Laravel
 
